@@ -19,7 +19,7 @@ nb: this is out of date; I will update this soon!
 
 
 ![Kitty](/C.jpg)
-[More about my cats](jsaeli.github.io/cats)
+[More about my cats](https://jsaeli.github.io/cats)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
