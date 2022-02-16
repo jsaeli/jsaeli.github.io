@@ -9,23 +9,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet purus u
 [My Academic CV](/Jessica_Saeli_Resume_2021-2.4.pdf)
 nb: this is out of date; I will update this soon!
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Links:
+- [Notre Dame Summer Language Program in Kyrgyzstan (2018)](https://sites.nd.edu/sla2018/saeli-jessica/)
+- [Notre Dame Kellogg International Scholars Program (2017-2020)](https://kellogg.nd.edu/jessica-saeli)
+- [Boston College Philosophy Graduate Program (2021-2023)](https://www.bc.edu/content/bc-web/sites/global-engagement/about/vs-bios/jessica-saeli-bio/)
+- [Boston College Vice Provost of Global Engagement Graduate Assistant (2021-2022)](https://www.bc.edu/bc-web/sites/global-engagement/about.html)
+- [Center for Mind and Culture Religion & Media Fellow (2021-2022)](https://mindandculture.org/about/people/interns/)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+![Kitty](/C.jpg)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
