@@ -4,7 +4,14 @@ Hello there! I am a graduate student at Boston College in the Philosophy Departm
 
 ### About Me:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet purus urna. Vivamus neque nisi, blandit nec mauris egestas, feugiat dapibus velit. Nam pulvinar semper diam. Nunc viverra purus nec semper fringilla. Curabitur sed sapien in lacus ultrices commodo. Vivamus pharetra, odio non laoreet porttitor, metus enim elementum quam, at suscipit risus orci vel justo. Nunc finibus faucibus rhoncus. Maecenas vitae mollis ex. 
+I am a student in the M.A. program in philosophy at Boston College. I began my graduate studies after graduating _magna cum laude_ from the University of Notre Dame, where I studied philosophy and Russian. My primary interests are intersubjectivity, personhood, and Russian philosophy. My central question is: What is a “self”? I approach the question of the self from the Russian Orthodox idea, elaborated by Vladimir Solovyov, that personhood is essentially relational. Beyond the Russian context, I study the self and intersubjectivity, exploring how relationality and sociability are essential to personhood. In Russian, I focus on literature and poetry from the Russian Golden and Silver Ages, as well as patriotic education in contemporary Russia. I enjoy reading and writing about philosophy, theology, and literature.
+
+Areas of interest:
+- Intersubjectivity and personhood
+- Russian philosophy (Solovyov, Berdiaev, Florensky)
+- existentialism (esp. Kierkegaard, Nietzsche)
+- Russian Literature (Dostoevsky, Pushkin, Gippius)
+
 
 [My Academic CV](/Jessica_Saeli_Resume_2021-2.4.pdf)
 nb: this is out of date; I will update this soon!
