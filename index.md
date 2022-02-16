@@ -6,8 +6,8 @@ Hello there! I am a graduate student at Boston College in the Philosophy Departm
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet purus urna. Vivamus neque nisi, blandit nec mauris egestas, feugiat dapibus velit. Nam pulvinar semper diam. Nunc viverra purus nec semper fringilla. Curabitur sed sapien in lacus ultrices commodo. Vivamus pharetra, odio non laoreet porttitor, metus enim elementum quam, at suscipit risus orci vel justo. Nunc finibus faucibus rhoncus. Maecenas vitae mollis ex. 
 
-[My out-of-date-resume](/Jessica_Saeli_Resume_2021-2.4.pdf)
-I will update this soon!
+[My Academic CV](/Jessica_Saeli_Resume_2021-2.4.pdf)
+nb: this is out of date; I will update this soon!
 
 ```markdown
 Syntax highlighted code block
