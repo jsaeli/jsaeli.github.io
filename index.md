@@ -6,10 +6,10 @@ Hello there! I am a graduate student at Boston College in the Philosophy Departm
 
 I am a student in the M.A. program in philosophy at Boston College. I began my graduate studies after graduating _magna cum laude_ from the University of Notre Dame, where I studied philosophy and Russian. My primary interests are intersubjectivity, personhood, and Russian philosophy. My central question is: What is a “self”? I approach the question of the self from the Russian Orthodox idea, elaborated by Vladimir Solovyov, that personhood is essentially relational. Beyond the Russian context, I study the self and intersubjectivity, exploring how relationality and sociability are essential to personhood. In Russian, I focus on literature and poetry from the Russian Golden and Silver Ages, as well as patriotic education in contemporary Russia. I enjoy reading and writing about philosophy, theology, and literature.
 
-Areas of interest:
-- Intersubjectivity and personhood
+### Areas of interest:
+- Intersubjectivity and personhood (Merleau-Ponty, Arendt)
 - Russian philosophy (Solovyov, Berdiaev, Florensky)
-- existentialism (esp. Kierkegaard, Nietzsche)
+- existentialism (Kierkegaard, Nietzsche)
 - Russian Literature (Dostoevsky, Pushkin, Gippius)
 
 
