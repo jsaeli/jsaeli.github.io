@@ -1,6 +1,6 @@
 # Publications
 
-This page includes text form of my two publications in the 2020 edition of The Birch Journal.
+This page includes text from my two publications in [the 2020 edition of The Birch Journal.](https://issuu.com/thebirchjournal/docs/the_birch_2020_final)
 First are translations of two of Lidia Berdiaeva's poems: "Flowers Invisible" and "In Silence."
 Second is my literary criticism of Zinaida Gippius' poem "Spiders", prefaced by a translation of the poem.
 
@@ -117,7 +117,7 @@ Are the four fat spiders.
 Четыре толстых паука.  
 (1903)  
 
-## A Small World Full of Spiders
+## A Small Room Full of Spiders
 
 The world depicted in Zinaida Gippius’ poem “Spiders” (“Pauki”) is a small room ruled by web-spinning spiders, a realm trapped by history and fate. Gippius situates her three main symbols: the cell, the spiders, and the cobwebs, in a gloomy and claustrophobic environment which is constructed through carefully chosen words ; short sentences which evoke a cramped feeling; the four-line, four-verse poetic structure which mimics the four-cornered cell; and the lack of action taken by the listless narrator which reinforces a fatalistic view. These literary techniques set the stage in which the three main symbols act out the narrative of life according to Gippius: the physical world is a place ruled by fate and determined by the inevitable flow of time and history, which ultimately destroy the individual. The poem can also be interpreted to represent Gippius’ personal struggles with her gender and body as a female poet in turn-of-the-century Russia. The complete impression of the poem is powerful enough to affect the reader viscerally.
 
