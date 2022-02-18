@@ -12,14 +12,15 @@ I am a student in the M.A. program in philosophy at Boston College. I began my g
 - Existentialism (Kierkegaard, Nietzsche)
 - Russian Literature (Dostoevsky, Pushkin, Gippius)
 
-[My Academic CV](/Jessica_Saeli_Resume_2022-2.5.pdf)
+### [My Academic CV](/Jessica_Saeli_Resume_2022-2.5.pdf)
 
-[Publications:](https://jsaeli.github.io/publications)
-I have two pieces published in the 2020 edition of [The Birch Journal](https://issuu.com/thebirchjournal/docs/the_birch_2020_final)
-- A Small Room Full of Spiders (pages 57-60): literary criticism of Zinaida Gippius's poem "Spiders" (Пауки)
-- Lidia Berdiaeva's Poetry (page 68): translation from Russian to English of two poems, "Flowers Invisible" and "In Suffering."
+### Publications:
 
-## Links:
+I have two pieces published in [the 2020 edition of The Birch Journal](https://issuu.com/thebirchjournal/docs/the_birch_2020_final)
+- [A Small Room Full of Spiders](https://jsaeli.github.io/publications) (pages 57-60): literary criticism of Zinaida Gippius's poem "Spiders" (Пауки)
+- [Lidia Berdiaeva's Poetry](https://jsaeli.github.io/publications) (page 68): translation from Russian to English of two poems, "Flowers Invisible" and "In Suffering."
+
+## External Links:
 - [Notre Dame Summer Language Program in Kyrgyzstan (2018)](https://sites.nd.edu/sla2018/saeli-jessica/)
 - [Notre Dame Kellogg International Scholars Program (2017-2020)](https://kellogg.nd.edu/jessica-saeli)
 - [Boston College Philosophy Graduate Program (2021-2023)](https://www.bc.edu/content/bc-web/sites/global-engagement/about/vs-bios/jessica-saeli-bio/)
