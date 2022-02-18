@@ -4,18 +4,20 @@ Hello there! I am a graduate student at Boston College in the Philosophy Departm
 
 ### About Me:
 
-I am a student in the M.A. program in philosophy at Boston College. I began my graduate studies after graduating _magna cum laude_ from the University of Notre Dame, where I studied philosophy and Russian. My primary interests are intersubjectivity, personhood, and Russian philosophy. My central question is: What is a “self”? I approach the question of the self from the Russian Orthodox idea, elaborated by Vladimir Solovyov, that personhood is essentially relational. Beyond the Russian context, I study the self and intersubjectivity, exploring how relationality and sociability are essential to personhood. My goal is to develop an understanding of the self/personhood which doesn't prioritize traditionally masculine traits, such as independence, rationality, and the mind but also celebrates traditionally feminine traits such as relationality, emotionality, and the body. In Russian studies, I focus on literature and poetry from the Russian Golden and Silver Ages, as well as patriotic education in Soviet and contemporary Russia. I enjoy reading and writing about philosophy, theology, and literature. I tutor middle-/junior-high school English.
+I am a student in the M.A. program in philosophy at Boston College. I began my graduate studies after graduating _magna cum laude_ from the University of Notre Dame, where I studied philosophy and Russian. My primary interests are intersubjectivity, personhood, and Russian philosophy. My central question is: What is a “self”? I approach the question of the self from the Russian Orthodox idea, elaborated by Vladimir Solovyov, that personhood is essentially relational. Beyond the Russian context, I study the self and intersubjectivity, exploring how relationality and sociability are essential to personhood. My goal is to develop an understanding of the self/personhood which doesn't prioritize traditionally masculine traits, such as independence, rationality, and the mind but also celebrates traditionally feminine traits such as relationality, emotionality, and the body. In Russian studies, I focus on literature and poetry from the Russian Golden and Silver Ages, as well as patriotic education in Soviet and contemporary Russia. I enjoy reading and writing about philosophy, theology, and literature. 
 
 ### Areas of interest:
 - Intersubjectivity and personhood (Merleau-Ponty, Arendt)
 - Russian philosophy (Solovyov, Berdiaev)
-- existentialism (Kierkegaard, Nietzsche)
+- Existentialism (Kierkegaard, Nietzsche)
 - Russian Literature (Dostoevsky, Pushkin, Gippius)
 
+[My Academic CV](/Jessica_Saeli_Resume_2022-2.5.pdf)
 
-[My Academic CV](/Jessica_Saeli_Resume_2021-2.4.pdf)
-nb: this is out of date; I will update this soon!
-
+[Publications:](https://jsaeli.github.io/publications)
+I have two pieces published in the 2020 edition of [The Birch Journal](https://issuu.com/thebirchjournal/docs/the_birch_2020_final)
+- A Small Room Full of Spiders (pages 57-60): literary criticism of Zinaida Gippius's poem "Spiders" (Пауки)
+- Lidia Berdiaeva's Poetry (page 68): translation from Russian to English of two poems, "Flowers Invisible" and "In Suffering."
 
 ## Links:
 - [Notre Dame Summer Language Program in Kyrgyzstan (2018)](https://sites.nd.edu/sla2018/saeli-jessica/)
