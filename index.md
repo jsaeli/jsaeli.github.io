@@ -24,8 +24,8 @@ I have two pieces published in [the 2020 edition of The Birch Journal](https://i
 - [A Small Room Full of Spiders](https://jsaeli.github.io/publications) (pages 57-60): literary criticism of Zinaida Gippius's poem "Spiders" (Пауки)
 - [Lidia Berdiaeva's Poetry](https://jsaeli.github.io/publications) (page 68): translation from Russian to English of two poems, "Flowers Invisible" and "In Suffering."
 
-I have written two articles (both forthcoming) for the [Center for Mind and Culture](https://medium.com/@mindandculture)
-- I will provide links here when they are published.
+I have written two articles (one of which is forthcoming) for the [Center for Mind and Culture](https://mindandculture.org/)
+- [Can we measure (and predict) religious change?](https://medium.com/modeling-religious-change/can-we-measure-and-predict-religious-change-b4919b69ff68)
 
 ## External Links:
 - [Notre Dame Summer Language Program in Kyrgyzstan (2018)](https://sites.nd.edu/sla2018/saeli-jessica/)
@@ -33,6 +33,7 @@ I have written two articles (both forthcoming) for the [Center for Mind and Cult
 - [Boston College Philosophy Graduate Program (2021-2023)](https://www.bc.edu/content/bc-web/sites/global-engagement/about/vs-bios/jessica-saeli-bio/)
 - [Boston College Vice Provost of Global Engagement Graduate Assistant (2021-2022)](https://www.bc.edu/bc-web/sites/global-engagement/about.html)
 - [Center for Mind and Culture Religion & Media Fellow (2021-2022)](https://mindandculture.org/about/people/interns/)
+- [Medium Account](https://medium.com/@saelij)
 
 
 ![Kitty](/C.jpg)
