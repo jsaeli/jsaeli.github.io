@@ -28,6 +28,7 @@ I have written three articles for the [Center for Mind and Culture](https://mind
 - [Can we measure (and predict) religious change?](https://medium.com/modeling-religious-change/can-we-measure-and-predict-religious-change-b4919b69ff68)
 - [Defining the dimensions of religiosity](https://medium.com/modeling-religious-change/defining-the-dimensions-of-religiosity-4b68949239dd)
 - [Evolving computer simulations of religion](https://medium.com/modeling-religious-change/evolving-computer-simulations-of-religion-2df7f6722b96)
+- [Evolving computer simulations of religion - CMAC website]([https://mindandculture.org/projects/modeling-social-systems/modeling-religious-change/](https://mindandculture.org/evolving-computer-simulations-of-religion/))
 
 ## External Links:
 - [Notre Dame Summer Language Program in Kyrgyzstan (2018)](https://sites.nd.edu/sla2018/saeli-jessica/)
