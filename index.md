@@ -24,7 +24,7 @@ I have two pieces published in [the 2020 edition of The Birch Journal](https://i
 - [A Small Room Full of Spiders](https://jsaeli.github.io/publications) (pages 57-60): literary criticism of Zinaida Gippius's poem "Spiders" (Пауки)
 - [Lidia Berdiaeva's Poetry](https://jsaeli.github.io/publications) (page 68): translation from Russian to English of two poems, "Flowers Invisible" and "In Suffering."
 
-I have written three articles for the [Center for Mind and Culture](https://mindandculture.org/)
+I have written four articles for the [Center for Mind and Culture](https://mindandculture.org/) (articles are the same at the different sources listed)
 - Can we measure (and predict) religious change?
   - [Medium](https://medium.com/modeling-religious-change/can-we-measure-and-predict-religious-change-b4919b69ff68)
   - [MRC blog](https://modelingreligiouschange.org/can-we-measure-and-predict-religious-change/)
