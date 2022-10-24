@@ -25,14 +25,18 @@ I have two pieces published in [the 2020 edition of The Birch Journal](https://i
 - [Lidia Berdiaeva's Poetry](https://jsaeli.github.io/publications) (page 68): translation from Russian to English of two poems, "Flowers Invisible" and "In Suffering."
 
 I have written three articles for the [Center for Mind and Culture](https://mindandculture.org/)
-- [Can we measure (and predict) religious change? - Medium](https://medium.com/modeling-religious-change/can-we-measure-and-predict-religious-change-b4919b69ff68)
-  - [Can we measure (and predict) religious change? - MRC blog](https://modelingreligiouschange.org/can-we-measure-and-predict-religious-change/)
-- [Defining the dimensions of religiosity](https://medium.com/modeling-religious-change/defining-the-dimensions-of-religiosity-4b68949239dd)
-  - [Defining the dimensions of religiosity - MRC blog](https://modelingreligiouschange.org/defining-the-dimensions-of-religiosity/)
-- [Evolving computer simulations of religion](https://medium.com/modeling-religious-change/evolving-computer-simulations-of-religion-2df7f6722b96)
-  - [Evolving computer simulations of religion - CMAC blog]([https://mindandculture.org/projects/modeling-social-systems/modeling-religious-change/](https://mindandculture.org/evolving-computer-simulations-of-religion/))
-- [Understanding changing populations with the cohort-component method](https://medium.com/modeling-religious-change/the-cohort-component-method-of-demographic-projection-180f1eacf4d8)
-  - [Understanding changing populations with the cohort-component method - MRC blog](https://modelingreligiouschange.org/understanding-changing-populations-with-the-cohort-component-method/)
+- Can we measure (and predict) religious change?
+  - [Medium](https://medium.com/modeling-religious-change/can-we-measure-and-predict-religious-change-b4919b69ff68)
+  - [MRC blog](https://modelingreligiouschange.org/can-we-measure-and-predict-religious-change/)
+- Defining the dimensions of religiosity
+  - [Medium](https://medium.com/modeling-religious-change/defining-the-dimensions-of-religiosity-4b68949239dd)
+  - [MRC blog](https://modelingreligiouschange.org/defining-the-dimensions-of-religiosity/)
+- Evolving computer simulations of religion
+  - [Medium](https://medium.com/modeling-religious-change/evolving-computer-simulations-of-religion-2df7f6722b96)
+  - [CMAC blog](https://mindandculture.org/tag/modeling-simulation/)
+- Understanding changing populations with the cohort-component method
+  - [Medium](https://medium.com/modeling-religious-change/the-cohort-component-method-of-demographic-projection-180f1eacf4d8)
+  - [MRC blog](https://modelingreligiouschange.org/understanding-changing-populations-with-the-cohort-component-method/)
 
 ## External Links:
 - [Notre Dame Summer Language Program in Kyrgyzstan (2018)](https://sites.nd.edu/sla2018/saeli-jessica/)
