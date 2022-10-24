@@ -8,7 +8,7 @@ I am a student in the M.A. program in philosophy at Boston College. I began my g
 
 In Russian studies, I focus on literature and poetry from the Russian Golden and Silver Ages, as well as patriotic education in Soviet and contemporary Russia. I am working on a translation of Nikolai Berdiaev's final work and autobiography _Self-Knowledge_ (_Самопознание_).
 
-I enjoy reading and writing about philosophy, theology, and literature. I am currently reading Aristotle's _Posterior Analytics_, _On Child Psychology and Pedagogy_ by Maurice Merleau-Ponty, _A Defense of Judgment_ by Michael W. Clune, and _The First Law Trilogy_ by Joe Abercrombie.
+I enjoy reading and writing about philosophy, theology, and literature. I am currently reading Kierkegaard's _Philosophical Fragments_.
 
 ### Areas of interest:
 - Intersubjectivity and personhood (Merleau-Ponty, Arendt)
