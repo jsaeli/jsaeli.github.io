@@ -28,7 +28,7 @@ I have written several [Medium](https://medium.com/@saelij) articles for the [Ce
 - [Can we measure (and predict) religious change?](https://medium.com/modeling-religious-change/can-we-measure-and-predict-religious-change-b4919b69ff68)
 - [Defining the dimensions of religiosity](https://medium.com/modeling-religious-change/defining-the-dimensions-of-religiosity-4b68949239dd)
 - [Evolving computer simulations of religion](https://medium.com/modeling-religious-change/evolving-computer-simulations-of-religion-2df7f6722b96)
-- [Understanding changing populations with the cohort-component method]((https://medium.com/modeling-religious-change/the-cohort-component-method-of-demographic-projection-180f1eacf4d8))
+- [Understanding changing populations with the cohort-component method](https://medium.com/modeling-religious-change/the-cohort-component-method-of-demographic-projection-180f1eacf4d8)
 - [How individual decisions shape religious groups over time](https://medium.com/modeling-religious-change/modeling-religious-change-with-agent-based-models-b95f55a8c953)
 - [Virtual Reality Therapy for Nightmare Disorder](https://medium.com/@mindandculture/virtual-reality-therapy-for-nightmare-disorder-18ce6f724c90)
 
