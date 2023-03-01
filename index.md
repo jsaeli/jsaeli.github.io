@@ -16,7 +16,7 @@ I enjoy reading and writing about philosophy, theology, and literature. I am cur
 - Existentialism (Kierkegaard, Nietzsche)
 - Russian Literature (Dostoevsky, Pushkin, Gippius)
 
-### [My Academic CV](/Jessica_Saeli_Resume_2022-2.5.pdf)
+## [My Academic CV](/Jessica_Saeli_Resume_2022-2.5.pdf)
 
 ### Publications:
 
