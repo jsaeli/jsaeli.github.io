@@ -6,15 +6,13 @@ Hello there! I am a graduate student at Boston College in the Philosophy Departm
 
 I am a student in the M.A. program in philosophy at Boston College. I began my graduate studies after graduating _magna cum laude_ from the University of Notre Dame, where I studied philosophy and Russian. I also work as a [graduate assistant](https://www.bc.edu/bc-web/sites/global-engagement/about.html) for the Office of Global Engagement and as a [Religon & Media Fellow](https://mindandculture.org/about/people/interns/) at the Center for Mind and Culture.
 
-My academic interests are intersubjectivity, personhood, and Russian philosophy. My central question is: What is a “self”? I approach the question of the self from the Russian Orthodox idea, elaborated by Vladimir Solovyov, that personhood is essentially relational. Beyond the Russian context, I study the self and intersubjectivity, exploring how relationality and sociability are essential to personhood. My goal is to develop an understanding of the self/personhood which doesn't prioritize traditionally masculine traits, such as independence, rationality, and the mind but also celebrates traditionally feminine traits such as relationality, emotionality, and the body. Most recently, I am exploring Buddhist interpretations of "no-self".
+My academic interests are intersubjectivity, personhood, and Russian philosophy. My central question is: What is a “self”? I approach this question primarily with the concepts of intersubjectivity and relationality. Most recently, I am exploring Buddhist interpretations of "no-self". In Russian studies, I focus on literature and poetry from the Russian Golden and Silver Ages, as well as patriotic education in Soviet and contemporary Russia. I am working on a translation of Nikolai Berdiaev's final work and autobiography _Self-Knowledge_ (_Самопознание_).
 
-In Russian studies, I focus on literature and poetry from the Russian Golden and Silver Ages, as well as patriotic education in Soviet and contemporary Russia. I am working on a translation of Nikolai Berdiaev's final work and autobiography _Self-Knowledge_ (_Самопознание_).
+As a graduate assistant for the Office of Global Engagement, I organize programming for international students and faculty, including designing promotional materials and coordinating with speakers. I design Globle Engagement's bi-monthly newsletter, [The Bridge](https://www.bc.edu/bc-web/sites/global-engagement/about/thebridge.html) and work on editing and revising manuscripts for lectures and publication.
 
-As a graduate assistant for the Office of Global Engagement, I organize programming for international students and faculty, including designing promotional materials and coordinating with speakers. I design Globle Engagement's bi-monthly newsletter, [The Bridge](https://www.bc.edu/bc-web/sites/global-engagement/about/thebridge.html). I also help English language learners edit and revise their publications and lectures.
+As Religion & Media fellow for the Center for Mind and Culture, I write [Medium articles](https://medium.com/@saelij) related to their projects, manage the Modeling Religious Change [Twitter](https://twitter.com/ReligiousChange) account, and identify relevant media contacts, grants, and calls for papers.
 
-As Religion & Media fellow for the Center for Mind and Culture, I write Medium articles related to their projects, manage the Modeling Religious Change Twitter account,  and identify relevant grants and calls for papers.
-
-I enjoy reading and writing about philosophy, theology, and literature. I am currently reading Richard Kearney's _The Wake of Imagination_.
+I am currently reading Richard Kearney's _The Wake of Imagination_.
 
 ### Areas of interest:
 - Intersubjectivity and personhood (Merleau-Ponty, Arendt)
@@ -47,6 +45,7 @@ I have written several [Medium](https://medium.com/@saelij) articles for the [Ce
 - [Modeling Religious Change Twitter Account](https://twitter.com/ReligiousChange)
 - [Medium Account](https://medium.com/@saelij)
 
+# Fin~
 ~
 
 ![Kitty](/C.jpg)
